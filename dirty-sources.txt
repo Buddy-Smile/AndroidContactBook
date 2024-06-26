@@ -1,0 +1,4 @@
+/Users/aang/AndroidStudioProjects/FitnessTracker/app/src/main/java/com/example/fitnesstracker/ui/HomeFragment.kt
+/Users/aang/AndroidStudioProjects/FitnessTracker/app/src/main/java/com/example/fitnesstracker/ui/ProfileFragment.kt
+/Users/aang/AndroidStudioProjects/FitnessTracker/app/src/main/java/com/example/fitnesstracker/ui/ActivitiesFragment.kt
+/Users/aang/AndroidStudioProjects/FitnessTracker/app/src/main/java/com/example/fitnesstracker/MainActivity.kt
